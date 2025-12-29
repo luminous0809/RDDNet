@@ -201,6 +201,11 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+*.pth
+weight/
+Data/train
+Data/test
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
